@@ -1,1 +1,0 @@
-- [Cauchy-Schwartz 不等式](/books/A-Hilbert-Space-Problem-Book/Cauchy-Inequality.md)
